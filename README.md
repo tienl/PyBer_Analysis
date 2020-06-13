@@ -7,7 +7,7 @@ In the dataframe challenge_df3 shown below, we can see average fare per ride and
 
 ## Challenges of the analysis process 
 Some steps to produce the deliverables were described at a high level, a certain level of familiarity with python, pandas, and matplotlib, etc are expected.  Without the familiarity of these tools, one may need to have a resource such as the internet to learn and work through these challenges as needed.  A resampling technique had to be used to smooth out data in regular interval, which allowed us to plot the graph in uniform.  Without resampling the dataset would have gaps as shown below indicated by pivot table with NaN values.
-![NaN](/analysis/NaN.png)
+### ![NaN](/analysis/NaN.png)
 
 
 
