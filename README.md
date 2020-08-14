@@ -1,4 +1,7 @@
 # PyBer Analysis
+
+In this repository I demonstrated skills using python with matplotlib library for charting to performe analysis and charting for presentation.
+
 ## Background and Results
 ### Background  
 The purpose of this analysis is to demonstrate additional dimensions of information using the ridesharing data collected from .[2 csv files](https://github.com/tienl/PyBer_Analysis/tree/master/Resources). The files were loaded and processed using Python via Jupyter notebook and additional libraries.  In the [PyBer-Challenge.ipynb](PyBer-Challenge.ipynb) file, it shows steps of the analysis which included multiple processing of data into dataframes, formatting, and arithematics on the data.  Finally, the post processed data is produced into a graph.  
